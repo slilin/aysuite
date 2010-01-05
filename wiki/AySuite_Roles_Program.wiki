@@ -1,4 +1,4 @@
-#labels Phase-Requirements,Phase-Implementation,Featured,Phase-Design,Phase-Deploy,Phase-Support,AySuite通用权限管理系统
+#labels Phase-Requirements,Phase-Implementation,Phase-Design,Phase-Deploy,Phase-Support,AySuite通用权限管理系统
 #AySuite通用权限管理系统
 
 = Introduction =
